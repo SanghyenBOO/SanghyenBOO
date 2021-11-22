@@ -1,5 +1,4 @@
 ### Hi there 👋
-# I`m FrontEnd
 
 ## ▎🛠 Languages
 <p align='center'>
